@@ -10,6 +10,6 @@ To increase precision, provide a larger precision number. This will dramatically
 
 # Dependencies
 The following packages will ned to be installed before it can be used. python version: 3.6.2
-* Matplotlib v2.0.2 +
-* Numpy v1.13.1 +
-* Scipy v1.1.0 +
+* Matplotlib v2.0.2
+* Numpy v1.13.1
+* Scipy v1.1.0
