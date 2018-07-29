@@ -3,7 +3,7 @@ Plots 3d orbitals of hydrogen-like atoms
 
 # Usage
 Either run the program by double clicking and following the prompts or run through IDLE (or similar) and plot specific level.
-If you go with the first option, you can move to the next plot by jut closing the figure window. TO exit the progrm, let it finish or close the console window.
+If you go with the first option, you can move to the next plot by jut closing the figure window. To exit the progrm, close the console window.
 
 # Optional for the person who downloads and uses
 To increase precision, provide a larger precision number. This will dramatically increase computation time and increase visuals while making the time to render increase drastically as well.
